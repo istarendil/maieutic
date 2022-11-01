@@ -1,6 +1,6 @@
 # Maieutic
 
-The Maieutic robot is a fully open-source and 3d printable physical-expermiental platform intended for the study of manipulators kinematic control, artificial vision and reinforcement learning. It is an effort to build a affordable platform for the students in the "manipulators modeling and control" class to build their own low-cost model that allows them to continue experiment and learning outside campus. 
+The Maieutic robot is a fully open-source and 3d printable physical-expermiental platform intended for the study of manipulators kinematic control, artificial vision and reinforcement learning. It is an effort to build a affordable platform for the students in the "Modeling and control of robotic manipulators " course to build their own low-cost model that allows them to continue experiment and learning outside the campus. 
 
 ![maietuc](https://user-images.githubusercontent.com/107052856/199173871-e747cbb3-19e3-41de-95e7-4eddfd710066.jpeg)
 
