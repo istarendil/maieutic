@@ -15,4 +15,4 @@ The Maieutic robot is a fully open-source and 3d printable physical-expermiental
 # Demo
 - **This project is still at an early stage and efforts are being made on the mechanical design.**
 - **Some major changes have been made between the original mechanical structure and the current model.**
-- You can have a better look of the Maietuc through the following [link](https://www.youtube.com/watch?v=2Cj9AHu4f5U&list=PLQBwkbxMqU0CwwgrcaWHP4ouFjho0Iy4H&index=4)
+- You can have a better look of the Maietuc through the following [link](https://www.youtube.com/watch?v=2Cj9AHu4f5U)
